@@ -21,7 +21,8 @@ We welcome contributions from researchers, policymakers, and practitioners. To c
 3. Submit a pull request with your changes.
 
 ## Usage
-This repository provides:
+This repository will provide:
+-Collaborative environment to complete a LTC repository
 - Access to LTC-related datasets, models, and assessment tools.
 - Guidelines for using virtual testing methods and predictive analytics.
 
