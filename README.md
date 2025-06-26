@@ -7,12 +7,12 @@ To achieve this, IMPROVA focuses on understanding and quantifying the long-term 
 
 ## Repository Structure
 
-- [**LTC Injuries**](https://github.com/IMPROVA-RoadSafety/LTC-Injuries) – Categorization and descriptions of life-altering injuries.
-- [**LTC Glossary**](https://github.com/IMPROVA-RoadSafety/LTC_Glossary) – Key terms and definitions related to LTC research.
-- [**LTC Scales**](https://github.com/IMPROVA-RoadSafety/LTC_Scales) – Standardized scales used for assessing LTC severity.
-- [**LTC Databases & Data Collection Methods**](https://github.com/IMPROVA-RoadSafety/LTC-Databases-Data-Collection-Methods) – Resources for data collection and analysis.
-- [**Assessment Procedures and Methods**](https://github.com/IMPROVA-RoadSafety/Assessment-procedures-and-methods) – Evaluation techniques for LTC impact.
-- [**Models**](https://github.com/IMPROVA-RoadSafety/Models) – Predictive models and simulations for LTC risk assessment.
+- **LTC Injuries** – Categorization and descriptions of life-altering injuries.
+- **LTC Glossary** – Key terms and definitions related to LTC research.
+- **LTC Scales** – Standardized scales used for assessing LTC severity.
+- **LTC Databases & Data Collection Methods** – Resources for data collection and analysis.
+- **Assessment Procedures and Methods** – Evaluation techniques for LTC impact.
+- **Models** – Predictive models and simulations for LTC risk assessment.
 
 ## How to Contribute
 We welcome contributions from researchers, policymakers, and practitioners. To contribute:
