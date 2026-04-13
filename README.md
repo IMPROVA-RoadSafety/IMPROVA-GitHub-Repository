@@ -13,6 +13,7 @@ To achieve this, IMPROVA focuses on understanding and quantifying the long-term 
 - [**LTC Databases & Data Collection Methods**](https://github.com/IMPROVA-RoadSafety/LTC-Databases-Data-Collection-Methods) – Resources for data collection and analysis.
 - [**Assessment Procedures and Methods**](https://github.com/IMPROVA-RoadSafety/Assessment-procedures-and-methods) – Evaluation techniques for LTC impact.
 - [**Models**](https://github.com/IMPROVA-RoadSafety/Models) – Predictive models and simulations for LTC risk assessment.
+- [**PPE Survey Data Processing**](https://github.com/IMPROVA-RoadSafety/Survey-Cleaning-and-Exploration) – Process the PPE survey data, make preliminary plots, and export data for the dashboard.
 
 ## How to Contribute
 We welcome contributions from researchers, policymakers, and practitioners. To contribute:
